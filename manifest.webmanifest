@@ -1,0 +1,12 @@
+{
+  "name": "Hungry Hungry Sumotoad",
+  "short_name": "Hungry Hungry Sumotoad",
+  "id": "com.example.gamename",
+  "description": "The sumotoad is mad hungry",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
